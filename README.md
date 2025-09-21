@@ -10,14 +10,14 @@ The web interface allows users to input personal health details (age, gender, BM
 
 ```
 Stroke-Prediction/
-│── app.py                        # Flask application
-│── Stroke Prediction using python.ipynb  # Model training notebook
-│── model_saved.joblib             # Trained ML model (saved using joblib)
+│── app.py                        
+│── Stroke Prediction using python.ipynb 
+│── model_saved.joblib             
 │── templates_saved/
-│    ├── index.html                # Input form page
-│    ├── result.html               # Prediction results page
-│── playground-series-s3e2.zip     # Dataset (from Kaggle)
-│── README.md                      # Project documentation
+│    ├── index.html                
+│    ├── result.html               
+│── playground-series-s3e2.zip     
+│── README.md                      
 ```
 
 ---
@@ -35,7 +35,6 @@ Stroke-Prediction/
    pip install -r requirements.txt
    ```
 
-   *(Make sure you have Python 3.9+ installed.)*
 
 3. **Unzip the dataset (optional for retraining)**  
    ```bash
