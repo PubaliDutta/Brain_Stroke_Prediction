@@ -1,4 +1,4 @@
-# 🧠 Stroke Prediction Web App  
+# 🧠 Brain_Stroke_Prediction  
 
 This project is a **Machine Learning powered web application** built using **Flask** to predict the likelihood of a stroke based on user health data. The model is trained on the **[Playground Series S3E2 Dataset](https://www.kaggle.com/competitions/playground-series-s3e2/data)**.  
 
